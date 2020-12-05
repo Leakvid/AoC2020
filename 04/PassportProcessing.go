@@ -25,5 +25,6 @@ func main() {
 			count++
 		}
 	}
+
 	fmt.Print(count, " are valid")
 }
