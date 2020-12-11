@@ -15,7 +15,6 @@ func main() {
 }
 
 func Part1(input []int) {
-
 	jolts := make(map[int]int)
 
 	for i := 1; i < len(input); i++ {
